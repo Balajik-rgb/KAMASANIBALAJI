@@ -30,3 +30,5 @@ The system simulates a complete Arduino-based temperature monitoring project wit
 
 # OUTPUT
 <img width="1318" height="628" alt="Image" src="https://github.com/user-attachments/assets/a62055d8-646b-4788-b0a0-7c12875e27bf" />
+# CIRCUIT DESIGN
+<img width="821" height="433" alt="Image" src="https://github.com/user-attachments/assets/f34f761f-9f8d-449a-b67f-5ededb4a38b2" />
