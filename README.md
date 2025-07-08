@@ -29,3 +29,4 @@ Clean, modern interface with production-ready styling
 The system simulates a complete Arduino-based temperature monitoring project with DS18B20 sensor, 16x2 LCD display, and push button counter. You can start/stop the simulation, reset the system, press the virtual button to increment the counter, and toggle between temperature units. The project demonstrates all required deliverables including circuit design, code implementation, and working output demonstration.
 
 # OUTPUT
+<img width="1318" height="628" alt="Image" src="https://github.com/user-attachments/assets/a62055d8-646b-4788-b0a0-7c12875e27bf" />
